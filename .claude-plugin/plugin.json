@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "emerald-operations",
+  "displayName": "Emerald Operations",
+  "version": "1.0.0",
+  "description": "Ferramenta interna da Emerald para consulta e análise de operações de COMEX, shipments, containers e dados operacionais/financeiros provenientes da Logline e da planilha Emerald.",
+  "author": {
+    "name": "Emerald"
+  },
+  "keywords": [
+    "comex",
+    "shipments",
+    "containers",
+    "operacoes"
+  ]
+}

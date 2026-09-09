@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "emerald-operations": {
+      "type": "http",
+      "url": "https://mcp.emeraldcoast.group/mcp"
+    }
+  }
+}
